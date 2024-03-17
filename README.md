@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 
-<p align="left"> <img src="<iframe  src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog"via GIPHY </a>alt="rimshaqureshii" /> </p>
+<p align="left"> <img src="<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **Artificial Intelligence , Web Developing**
 
